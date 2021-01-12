@@ -6,7 +6,6 @@ The originator describes it as follows:
 > easy-to-write plain text format, then convert it to
 > structurally valid XHTML (or HTML).
 >
-> -- <http://daringfireball.net/projects/markdown/>
 
 This (markdown2) is a fast and complete Python implementation of Markdown. It
 was written to closely match the behaviour of the original Perl-implemented
